@@ -3,7 +3,7 @@ import { FaMapMarkerAlt, FaPhone } from 'react-icons/fa'; // Import icons from r
 import './MapAndCall.css'; // Import your styles here
 
 const Contacts = () => {
-  const phoneNumber = '+1234567890'; // Replace with your phone number
+  const phoneNumber = '+251912070320'; // Replace with your phone number
   const googleMapsLink = 'https://www.google.com/maps?q=9.016260,38.738442'; // Google Maps URL
 
   return (

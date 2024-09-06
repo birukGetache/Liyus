@@ -1,0 +1,63 @@
+[
+  
+  {
+    "id": "2",
+    "Type": "air Filter",
+    "Name": "air Filter",
+    "Price": 97,
+    "Rate": 4.9,
+    "ImagePath": "/images/air.jfif",
+    "total": 5,
+    "detail": "A suit is a formal outfit comprising a matching jacket and trousers, often worn with a dress shirt and tie. Known for its sophisticated appearance, suits are ideal for professional settings, formal events, and social gatherings, showcasing elegance and style while exuding confidence and professionalism."
+  },
+  {
+    "id": "1",
+    "Type": "Battery",
+    "Name": "Battery",
+    "Price": 94,
+    "Rate": 4.5,
+    "ImagePath": "/images/Battery.jfif",
+    "total": 5,
+    "detail": "A shirt is a versatile garment typically made of fabric, featuring a collar, sleeves, and a button-down front. It can be worn in casual or formal settings, often paired with trousers or skirts. Available in various styles, colors, and patterns, shirts are essential for expressing personal fashion and professionalism."
+  },
+  {
+    "id": "3",
+    "Type": "brakepad",
+    "Name": "brakepad",
+    "Price": 99,
+    "Rate": 4.7,
+    "ImagePath": "/images/brake.jpg",
+    "total": 5,
+    "detail": "Trousers are a type of clothing worn on the lower body, extending from the waist to the ankles. Typically made of various fabrics, they come in numerous styles, such as formal, casual, or sporty. Versatile and practical, trousers are essential for both everyday wear and special occasions, blending comfort with style."
+  },
+  {
+    "id": "4",
+    "Type": "Radiator",
+    "Name": "Radiator",
+    "Price": 87,
+    "Rate": 4.3,
+    "ImagePath": "/images/rad.jfif",
+    "total": 5,
+    "detail": "A belt is a flexible band, usually made of leather, fabric, or synthetic materials, that is worn around the waist. Its primary function is to secure trousers or skirts in place, but it also serves as a fashion accessory to enhance an outfit. Belts come in various widths, lengths, colors, and styles, including casual or formal designs, and often feature decorative buckles. A well-chosen belt can add a touch of sophistication or personality to any look."
+  },
+  {
+    "id": "5",
+    "Type": "spak Plugs",
+    "Name": "spak Plugs",
+    "Price": 89,
+    "Rate": 4.2,
+    "ImagePath": "/images/spackbug1.png",
+    "total": 5,
+    "detail": "Socks are lightweight garments worn on the feet, providing comfort, warmth, and protection. They typically cover the foot and extend up to the ankle or higher, depending on the style. Made from various materials such as cotton, wool, polyester, or blends, socks come in an assortment of designs, colors, and patterns."
+  },
+  {
+    "id": "6",
+    "Type": "Timing belt",
+    "Name": "Timing belt",
+    "Price": 95,
+    "Rate": 4.9,
+    "ImagePath": "/images/timingBelt.png",
+    "total": 5,
+    "detail": "Shoes are footwear designed to protect and comfort the feet while allowing for movement. They come in a wide variety of styles, materials, and functions, catering to different needs, occasions, and personal preferences."
+  }
+]

@@ -1,0 +1,50 @@
+/* Container for the card */
+.contacts-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 300px; /* Adjust width as needed */
+    padding: 20px;
+    margin: 20px auto; /* Center horizontally */
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    font-family: 'Cursive', sans-serif; /* Applying cursive font family */
+  }
+  
+  .contacts-title {
+    margin-bottom: 20px;
+    font-size: 1.5em;
+    text-align: center;
+    font-family: cursive;
+  }
+  
+  .map-link, .call-button {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #000; /* Adjust color as needed */
+    margin: 10px 0;
+  }
+  
+  .map-link:hover, .call-button:hover {
+    text-decoration: underline;
+  }
+  
+  .icon {
+    margin-right: 8px;
+    font-size: 20px; /* Adjust icon size if needed */
+  }
+  
+  .text {
+    font-family: 'Cursive', sans-serif; /* Applying cursive font family to text */
+  }
+  
+  .phone-number {
+    margin-top: 10px;
+    font-size: 1em;
+    color: #333; /* Adjust color as needed */
+  }
+  

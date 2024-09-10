@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaMapMarkerAlt, FaPhone } from 'react-icons/fa'; // Import icons from react-icons/fa
+import { FaMapMarkerAlt, FaPhone , FaEnvelope } from 'react-icons/fa'; // Import icons from react-icons/fa
 import './MapAndCall.css'; // Import your styles here
 
 const Contacts = () => {

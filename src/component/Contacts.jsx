@@ -18,7 +18,7 @@ const Contacts = () => {
         <span className="text">Call Us</span>
       </a>
       <a href={`mailto:${emailAddress}`} className="call-button">
-        <FaPhone className="icon" />
+        <FaEnvelope className="icon" />
         <span className="text">email Us</span>
       </a>
       <p className="phone-number">{phoneNumber}</p>
